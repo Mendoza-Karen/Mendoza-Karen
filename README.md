@@ -2,10 +2,9 @@
 
 **`Analista de Dados Jr.`**
 
-Oi, tudo bem? Meu nome de Karen. 👋  
+Oii, tudo bem? Meu nome de Karen. 👋  
 
 Sou formada em Ciência da Computação e apaixonada por dados, tecnologia e resolução de problemas.
-
 Desde o início da minha trajetória, sempre tive interesse por tecnologia e análise de informações. Ao longo da graduação, tive contato com programação, lógica e desenvolvimento de sistemas, o que despertou ainda mais meu interesse por trabalhar com dados e gerar insights a partir deles.  
 
 Buscando me especializar nessa área, concluí uma formação em Data Analytics pela TripleTen, onde desenvolvi diversos projetos práticos com dados reais. Durante essa jornada, me aprofundei em todo o ciclo de análise de dados — desde a coleta e limpeza até a análise exploratória, modelagem e visualização.  
